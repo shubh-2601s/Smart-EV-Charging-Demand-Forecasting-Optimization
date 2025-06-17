@@ -131,7 +131,9 @@ python forecasting_ev.py
 ---
 
 ## DashBoard Screenshot
-![EV Charging Demand Patterns Temporal, Traffic   Seasonal Insights dashboard](https://github.com/user-attachments/assets/a5f5028a-7200-41c2-9466-7d373c9f0bae)
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 
 ## 📈 Technical Highlights
