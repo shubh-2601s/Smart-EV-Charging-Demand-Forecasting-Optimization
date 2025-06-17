@@ -131,9 +131,8 @@ python forecasting_ev.py
 ---
 
 ## DashBoard Screenshot
-![Uploading image.png…]()
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/33aa32cc-0b49-4917-be01-ccb8fcbae158)
+![image](https://github.com/user-attachments/assets/e43874ef-6541-4f3c-bcb9-1e612b522cfe)
 
 
 ## 📈 Technical Highlights
