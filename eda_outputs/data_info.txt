@@ -1,0 +1,30 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2091 entries, 0 to 2090
+Data columns (total 23 columns):
+ #   Column            Non-Null Count  Dtype         
+---  ------            --------------  -----         
+ 0   timestamp         2091 non-null   datetime64[ns]
+ 1   station_id        2091 non-null   object        
+ 2   location          2091 non-null   object        
+ 3   energy_kwh        2091 non-null   float64       
+ 4   temperature       2091 non-null   float64       
+ 5   humidity          2091 non-null   int64         
+ 6   rain_mm           2091 non-null   float64       
+ 7   traffic_volume    2091 non-null   int64         
+ 8   hour              2091 non-null   int64         
+ 9   day_of_week       2091 non-null   object        
+ 10  is_weekend        2091 non-null   bool          
+ 11  month             2091 non-null   int64         
+ 12  quarter           2091 non-null   int64         
+ 13  day_of_year       2091 non-null   int64         
+ 14  week_of_year      2091 non-null   int64         
+ 15  season            2091 non-null   object        
+ 16  part_of_day       2091 non-null   object        
+ 17  rain_flag         2091 non-null   int64         
+ 18  temp_diff         2091 non-null   float64       
+ 19  traffic_level     2091 non-null   object        
+ 20  traffic_norm      2091 non-null   float64       
+ 21  energy_kwh_lag1   2091 non-null   float64       
+ 22  energy_kwh_roll3  2091 non-null   float64       
+dtypes: bool(1), datetime64[ns](1), float64(7), int64(8), object(6)
+memory usage: 361.6+ KB
