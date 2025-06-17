@@ -7,7 +7,7 @@
 
 With the growing adoption of electric vehicles (EVs), smart infrastructure planning is critical. This project aims to forecast EV charging demand using weather, time, and traffic data. By combining advanced data engineering with AI models like Facebook Prophet, the system empowers stakeholders to make informed decisions on station management, energy load distribution, and mobility optimization.
 
-This solution integrates multiple real-world datasets and builds a forecasting pipeline with visual outputs—making it suitable for both **internship projects** and **hackathons**.
+This solution integrates multiple real-world datasets and builds a forecasting pipeline with visual outputs—making.
 
 ---
 
